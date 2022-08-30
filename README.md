@@ -1,2 +1,0 @@
-# -
-openframworksの練習.
